@@ -9,4 +9,4 @@ https://github.com/Marti369/urban-telegram-Horiseon
 
 # Live Website URL
 
-https://marti369.github.io/urban-telegram-Horiseon/index.html
+https://marti369.github.io/urban-telegram-Horiseon/
